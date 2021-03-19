@@ -1,0 +1,28 @@
+h1{color:brown;margin-left:30px;}
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-between;
+}
+.menu{
+    color:(#2DF3C2);
+    display:flex;
+    justify-content: flex-end;padding: 30px;
+    margin-right: 30px;
+}
+.menu a{
+    margin-left: 20px;
+}
+.footer{
+    color:(#2df337);
+    display:flex;
+    justify-content: flex-end;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+a:link{color: firebrick;}
+a:visited{color:indigo}
